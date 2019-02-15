@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:fontProviderAuthority="com.google.android.gms.fonts"
+    app:fontProviderPackage="com.google.android.gms"
+    app:fontProviderQuery="Lobster"
+    app:fontProviderCerts="@array/certs"
+    android:fontProviderAuthority="com.google.android.gms.fonts"
+    android:fontProviderPackage="com.google.android.gms"
+    android:fontProviderQuery="Lobster"
+    android:fontProviderCerts="@array/certs">
+</font-family>
